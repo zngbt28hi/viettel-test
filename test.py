@@ -1,2 +1,2 @@
-username= 'testviettel@viettel.com.vn'
+username= 'taestviettel@viettel.com.vn'
 pass='testkhongphaihthat'
